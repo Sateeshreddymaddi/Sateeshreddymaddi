@@ -18,5 +18,5 @@
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: I love exploring cutting-edge technologies and solving real-world problems through coding!  
 
-Check out my portfolio here: **[My Portfolio](https://sateeshreddymaddi.github.io/Portfolio/)**  
+Check out my portfolio here: **[My Portfolio](https://sateeshreddymaddi.me)**  
 
