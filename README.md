@@ -46,7 +46,7 @@
 
 - 🔗 **Portfolio:** [sateeshreddymaddi.me](https://sateeshreddymaddi.me)  
 - 📫 **Email:** sateeshreddymaddi@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/sateeshreddymaddi](https://www.linkedin.com/in/sateeshreddymaddi)  
+- 💼 **LinkedIn:** [linkedin.com/in/sateeshreddymaddi](https://www.linkedin.com/in/sateesh-reddy-maddi-4148b9285/)  
 - 💬 **Twitter/X:** [@sateesh_maddi](https://twitter.com/sateesh_maddi) *(if applicable)*
 
 ---
