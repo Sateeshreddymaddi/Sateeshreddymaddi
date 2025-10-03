@@ -10,8 +10,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sateeshreddymaddi&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Sateeshreddymaddi?tab=followers">
     <img src="https://img.shields.io/github/followers/Sateeshreddymaddi?label=Followers&style=for-the-badge&color=00C9A7&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/sateesh-reddy-maddi-4148b9285/">
