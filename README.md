@@ -39,10 +39,10 @@
 ## 🚀 Tech Stack & Skills
 
 ### 🧰 **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
@@ -65,20 +65,17 @@
 
 ## 🛠️ Featured Projects
 
-### 🧪 **Test Hub – Online Examination Portal (MERN + JWT)** *(June 2024)*  
-- Full-stack platform for MCQs & coding tests  
-- ✅ JWT-based role authentication (Admin/Teacher/Student)  
-- 🧠 Automated grading system with sandboxed code execution  
-- ⚡ Handles thousands of submissions with low latency  
-- 📊 Real-time dashboards cut teacher workload by 60%
-
-### 🧠 **Hybrid AI Chatbot System (n8n + Gemini + Ollama)** *(Aug 2025)*  
-- Chatbot orchestrated via **n8n**  
-- Smart query routing reduced API load by 35%
-
-### 📝 **Streamlined Resume Classifier (n8n + Integrations)** *(Aug 2025)*  
-- Automated parsing & classification of resumes from PDF/DOCX  
-- Integrated Gmail & Google Sheets APIs to boost recruiter productivity
+| 🧪 Project | 🔧 Tech Stack | 🌟 Highlights |
+|-----------|---------------|---------------|
+| 🧪 **Test Hub – Online Examination Portal** | MERN + JWT | Secure MCQs + coding platform with auto-grading & dashboards |
+| 🤖 **Hybrid Chatbot (n8n + Gemini + Ollama)** | n8n + APIs | AI chatbot orchestration via n8n with smart routing |
+| 📝 **Resume Classifier** | n8n + Google Sheets + Gmail | Automated PDF parsing & classification |
+| 🎨 **AI Image Generator** | React + Node + OpenAI API | DALL·E 3 image generator via prompt |
+| 🎧 **Spotify Landing Page Clone** | React + Tailwind | Fully responsive & animated UI |
+| 🧑‍🚀 **X (Twitter) Clone** | React + Tailwind | Modern UI clone of Twitter homepage |
+| 🧠 **Developer Resources Hub** | React + Node + MongoDB | Admin-only dashboard to add useful dev sites |
+| 🧰 **n8n Data Cleaning Workflows** | n8n | Automated cleaning & processing pipelines |
+| 🎵 **YouTube Song Downloader** *(Private)* | Python + yt-dlp | Educational terminal tool for song extraction |
 
 ---
 
