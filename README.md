@@ -6,6 +6,7 @@
 <!-- Typing animation header -->
 <p align="center">
   <a href="https://github.com/Sateeshreddymaddi">
+    <br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Sateesh+Reddy+Maddi;💻+Full+Stack+Developer;⚡+Automation+with+n8n;🚀+Always+Learning%2C+Always+Building" alt="Typing SVG" />
   </a>
 </p>
