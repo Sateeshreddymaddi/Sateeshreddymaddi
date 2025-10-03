@@ -92,114 +92,197 @@ motto: "Code is the closest thing we have to magic."
 
 ## 💼 Featured Projects
 
+<i>Building solutions that make a difference</i>
+
 </div>
 
-<table align="center">
+<br/>
+
+<div align="center">
+
+[![Test Hub](https://img.shields.io/badge/🧪_TEST_HUB-Online_Examination_Portal-FF6B6B?style=for-the-badge)](https://github.com/Sateeshreddymaddi)
+
+</div>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🧪 Test Hub
-**Online Examination Portal**
-- 🔐 Secure authentication with JWT
-- 📝 MCQ & coding assessments
-- 🤖 Auto-grading system
-- 📊 Admin & student dashboards
+**A comprehensive online examination platform with secure authentication and auto-grading capabilities**
 
-**Tech:** MongoDB, Express, React, Node.js
+🔐 **Secure JWT Authentication** - Role-based access control  
+📝 **Dual Assessment System** - MCQs + Live coding challenges  
+🤖 **Intelligent Auto-Grading** - Instant feedback and scoring  
+📊 **Rich Dashboards** - Separate admin and student interfaces  
+⚡ **Real-time Updates** - Live exam status and results
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 🤖 Hybrid AI Chatbot
-**Intelligent Orchestration System**
-- 🧠 Gemini & Ollama integration
-- 🔄 Smart routing via n8n
-- 💬 Context-aware responses
-- ⚡ Real-time processing
-
-**Tech:** n8n, APIs, AI Models
+```javascript
+const techStack = {
+  frontend: "React.js",
+  backend: "Express.js",
+  database: "MongoDB",
+  auth: "JWT",
+  features: [
+    "User Management",
+    "Test Creation",
+    "Live Coding",
+    "Analytics"
+  ]
+}
+```
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+<div align="center">
+
+[![Hybrid AI Chatbot](https://img.shields.io/badge/🤖_HYBRID_AI_CHATBOT-Intelligent_Orchestration-9B59B6?style=for-the-badge)](https://github.com/Sateeshreddymaddi)
+
+</div>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 📝 Resume Classifier
-**Automated HR Solution**
-- 📄 PDF parsing automation
-- 🏷️ Intelligent classification
-- 📧 Gmail integration
-- 📊 Google Sheets sync
-
-**Tech:** n8n, Google Workspace
+```yaml
+Architecture:
+  orchestrator: n8n
+  ai_models:
+    - Gemini API
+    - Ollama (Local)
+  features:
+    - Smart routing
+    - Context retention
+    - Multi-model support
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🎨 AI Image Generator
-**DALL·E 3 Integration**
-- 🖼️ Prompt-based generation
-- 🎯 Custom styling options
-- ⚡ Fast rendering
-- 💾 Download functionality
+**Advanced chatbot orchestration system leveraging multiple AI models**
 
-**Tech:** React, Node.js, OpenAI API
+🧠 **Dual AI Integration** - Gemini & Ollama working together  
+🔄 **Intelligent Routing** - Smart model selection via n8n  
+💬 **Context-Aware** - Maintains conversation history  
+⚡ **Real-time Processing** - Lightning-fast responses  
+🎯 **Custom Workflows** - Tailored automation pipelines
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+<div align="center">
+
+[![Resume Classifier](https://img.shields.io/badge/📝_RESUME_CLASSIFIER-Automated_HR_Solution-3498DB?style=for-the-badge)](https://github.com/Sateeshreddymaddi)
+
+</div>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🎧 Spotify Clone
-**Landing Page Recreation**
-- 📱 Fully responsive design
-- ✨ Smooth animations
-- 🎨 Modern UI/UX
-- 🚀 Performance optimized
+**Automated resume processing and classification system using n8n**
 
-**Tech:** React, Tailwind CSS
+📄 **Smart PDF Parsing** - Extract data from resumes automatically  
+🏷️ **AI Classification** - Categorize by skills and experience  
+📧 **Gmail Integration** - Auto-send responses to candidates  
+📊 **Google Sheets Sync** - Real-time database updates  
+🔄 **Full Automation** - End-to-end workflow with zero manual work
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 🧑‍🚀 X (Twitter) Clone
-**Social Media UI**
-- 🎨 Pixel-perfect design
-- 📱 Mobile-first approach
-- 🌗 Dark mode support
-- ⚡ Lightning fast
-
-**Tech:** React, Tailwind CSS
+```python
+workflow = {
+  "trigger": "Email Received",
+  "steps": [
+    "Parse PDF",
+    "Extract Data",
+    "Classify Resume",
+    "Update Sheets",
+    "Send Response"
+  ],
+  "powered_by": "n8n"
+}
+```
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+<div align="center">
+
+[![More Projects](https://img.shields.io/badge/⚡_MORE_AMAZING_PROJECTS_BELOW-00C9A7?style=for-the-badge)](#)
+
+</div>
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 Developer Resources Hub
-**Curated Dev Tools**
-- 👨‍💼 Admin dashboard
-- 📚 Resource management
-- 🔍 Search functionality
-- 🏷️ Category organization
-
-**Tech:** MERN Stack
-
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🎨-AI_Image_Generator-E74C3C?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/><br/>
+<b>DALL·E 3 Integration</b>
+<br/><br/>
+Prompt-based image generation with custom styling options and instant downloads
+<br/><br/>
+<code>React • Node.js • OpenAI API</code>
 </td>
-<td width="50%" valign="top">
-
-### 🧰 n8n Workflows
-**Data Pipeline Automation**
-- 🔄 ETL processes
-- 🧹 Data cleaning
-- 📊 Processing pipelines
-- ⚙️ Webhook integrations
-
-**Tech:** n8n, APIs
-
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🎧-Spotify_Clone-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+<br/><br/>
+<b>Landing Page Recreation</b>
+<br/><br/>
+Fully responsive with smooth animations and modern UI/UX design patterns
+<br/><br/>
+<code>React • Tailwind CSS</code>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🧑‍🚀-X_Clone-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<br/><br/>
+<b>Social Media UI</b>
+<br/><br/>
+Pixel-perfect Twitter homepage clone with dark mode support
+<br/><br/>
+<code>React • Tailwind CSS</code>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🧠-Dev_Resources_Hub-F39C12?style=for-the-badge&logo=databricks&logoColor=white"/>
+<br/><br/>
+<b>Curated Developer Tools</b>
+<br/><br/>
+Admin dashboard for managing useful developer websites and resources
+<br/><br/>
+<code>MERN Stack</code>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🧰-n8n_Workflows-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
+<br/><br/>
+<b>Data Pipeline Automation</b>
+<br/><br/>
+ETL processes, data cleaning, and webhook integrations
+<br/><br/>
+<code>n8n • APIs</code>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🎵-YouTube_Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<br/><br/>
+<b>Educational Tool (Private)</b>
+<br/><br/>
+Terminal-based song extraction using Python and yt-dlp
+<br/><br/>
+<code>Python • yt-dlp</code>
 </td>
 </tr>
 </table>
