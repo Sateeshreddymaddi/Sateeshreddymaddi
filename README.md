@@ -1,4 +1,3 @@
-```markdown
 <!-- 🌌 Glassmorphism Premium Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,27,42,27,38,59&height=220&section=header&text=Sateesh%20Reddy%20Maddi&fontSize=45&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Automation%20Architect%20•%20n8n%20Expert&descAlignY=58&descSize=16&descColor=E0E1DD" alt="Header"/>
